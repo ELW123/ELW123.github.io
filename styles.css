@@ -2,7 +2,11 @@ h1 {font-weight: bold;
     font-size: 4rem;
     line-height: 50%; }
 
-table, th, td {
-        border: 1px solid;}
+table, th, td {border: 1px solid;}
+
+body {background-image: url("Background.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;}
 
 /*To override a potential CSS file in my HTML file, you need to put !important to your properties.*/
