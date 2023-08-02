@@ -1,0 +1,10 @@
+h1 {font-weight: bold; 
+    font-size: 4rem;
+    line-height: 50%; }
+
+    table, th, td {
+        border: 1px solid;
+      }
+
+/* You might be having a CSS file in your HTML file which is overriding your internal CSS. 
+To override that one, you need to put !important to your properties.*/
