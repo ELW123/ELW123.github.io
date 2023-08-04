@@ -32,7 +32,7 @@ p, ul, pre, table {
 table, th, td {border: 1px solid;}
 
 
-body {background-image: url("Background.png");
+body {background-image: url("../images/Background.png");
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;}
