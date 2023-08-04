@@ -30,8 +30,9 @@ p, ul, pre, table {
   }
 
   #ProfilePic {
-    width:15%; /* or any other width percentage */
+    width:17%; /* or any other width percentage */
     height: auto;
+    min-width: 400px;
     /*max-width: 400px;  
     max-height: 500px;*/
     
