@@ -2,7 +2,18 @@ h1 {font-weight: bold;
     font-size: 4rem;
     line-height: 50%; }
 
+p, ul, pre, table {
+    font-family: "Open Sans";
+  }
+
+  #TableTop1, #TableTop2 {
+    /*font-weight: 700; doesnt work*/
+    font-family: "Roboto";
+  }
+
+
 table, th, td {border: 1px solid;}
+
 
 body {background-image: url("Background.png");
       background-size: cover;
