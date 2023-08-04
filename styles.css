@@ -11,6 +11,9 @@ p, ul, pre, table {
     font-family: "Roboto";
   }
 
+  .table-container {
+    margin-left: 5%; /* Adjust the percentage value as needed */
+  }
 
 table, th, td {border: 1px solid;}
 
