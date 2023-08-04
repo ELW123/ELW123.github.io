@@ -1,3 +1,7 @@
+body {
+    margin-left: 2%; /* Adjust the percentage value as needed */
+  }
+
 h1 {font-weight: bold; 
     font-size: 4rem;
     line-height: 50%; }
@@ -13,6 +17,16 @@ p, ul, pre, table {
 
   .table-container {
     margin-left: 5%; /* Adjust the percentage value as needed */
+  }
+
+  .Intro {
+    display: flex;
+    align-items: flex-start; /* Vertically aligns items in the container */
+  }
+
+  .IntroText {
+    margin-left: 4rem;
+    
   }
 
 table, th, td {border: 1px solid;}
