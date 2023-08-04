@@ -16,7 +16,7 @@ p, ul, pre, table {
   }
 
   .table-container {
-    margin-left: 5%; /* Adjust the percentage value as needed */
+    margin-left: 2rem; /* Adjust the percentage value as needed */
   }
 
   .Intro {
@@ -25,7 +25,7 @@ p, ul, pre, table {
   }
 
   .IntroText {
-    margin-left: 4rem;
+    margin-left: 3rem;
     
   }
 
