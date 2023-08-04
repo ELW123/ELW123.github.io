@@ -29,6 +29,14 @@ p, ul, pre, table {
     
   }
 
+  #ProfilePic {
+    width:15%; /* or any other width percentage */
+    height: auto;
+    /*max-width: 400px;  
+    max-height: 500px;*/
+    
+  }
+
 table, th, td {border: 1px solid;}
 
 
